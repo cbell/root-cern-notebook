@@ -1,0 +1,3 @@
+name: rootnb
+dependencies:
+  - root
